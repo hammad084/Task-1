@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Serene Beaches of Bali",
+      "slug": "exploring-the-serene-beaches-of-bali",
+      "img": "https://cdn.aglty.io/apedzdum/posts/canadian.jpg",
+      "body": "<p>Bali, the Island of Gods, is renowned for its picturesque beaches and stunning landscapes...</p><p>Whether you're looking for the perfect surfing spot, a romantic honeymoon getaway, or a peaceful retreat, Bali has something to offer for every traveler...</p><p>With its rich cultural heritage, lush rice terraces, and vibrant nightlife, Bali promises an unforgettable experience that will leave you wanting to come back for more.</p>"
+    },
+    {
+      "id": 2,
+      "title": "A Safari Adventure in the Heart of Africa",
+      "slug": "a-safari-adventure-in-the-heart-of-africa",
+      "img":  "https://cdn.aglty.io/apedzdum/posts/virtual-tour_20210331171226_0.jpg",
+      "body": "<p>Embark on a once-in-a-lifetime safari adventure in the heart of Africa...</p><p>Witness the incredible wildlife up close, from majestic lions roaming the savannah to graceful giraffes grazing peacefully...</p><p>Experience the thrill of tracking wild animals on game drives, and enjoy evenings under the starry sky, listening to the sounds of the African wilderness.</p><p>From the vast plains of the Serengeti to the breathtaking beauty of the Okavango Delta, an African safari will leave you in awe of nature's wonders.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Uncovering the Mysteries of Machu Picchu",
+      "slug": "uncovering-the-mysteries-of-machu-picchu",
+      "img":  "https://cdn.aglty.io/apedzdum/posts/travel-photography_20210331143648_0.jpg",
+      "body": "<p>Machu Picchu, the ancient Incan citadel, sits high in the Andes Mountains of Peru...</p><p>Discover the secrets of this archaeological wonder as you explore its well-preserved ruins and intricate stone structures...</p><p>Hike the Inca Trail and experience the breathtaking views of the Andean landscapes, or take a scenic train ride to reach this iconic site.</p><p>Learn about the fascinating history and myths surrounding Machu Picchu, and immerse yourself in the beauty of this UNESCO World Heritage site.</p>"
+    }
+  ]
+}
